@@ -1,0 +1,28 @@
+{
+  "name": "test-website",
+  "version": "1.0.0",
+  "description": "test website to learn gatsby",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "npx gatsby develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melnee/test-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melnee/test-website/issues"
+  },
+  "homepage": "https://github.com/Melnee/test-website#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "gatsby": "^3.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
